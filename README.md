@@ -1,3 +1,3 @@
 ## mmmnumber37
 
-[Макет резюме](https://mmmnumber37.github.io/task1_resume/)
+[task1_resume](https://mmmnumber37.github.io/task1_resume/) - Макет резюме
