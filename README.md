@@ -1,5 +1,5 @@
 ## mmmnumber37
 
 [task1_resume](https://mmmnumber37.github.io/task1_resume/) - Макет резюме  
-[task2_uikit](https://mmmnumber37.github.io/task2_uikit/) - Макет UiKit
+[task2_uikit](https://mmmnumber37.github.io/task2_uikit/) - Макет UiKit  
 [task3_slider](https://mmmnumber37.github.io/task3_slider/) - Range Sliders
