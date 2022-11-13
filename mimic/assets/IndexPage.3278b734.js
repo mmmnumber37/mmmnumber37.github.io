@@ -1,1 +1,0 @@
-import{_ as e,G as t,H as n,K as a,N as s}from"./index.003a5765.js";const _=t({name:"App"}),o=s("h3",{class:"text-center"},"Mimic",-1),c=[o];function r(d,p,i,l,f,m){return n(),a("div",null,c)}var x=e(_,[["render",r]]);export{x as default};
