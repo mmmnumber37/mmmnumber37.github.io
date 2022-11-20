@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.40dc86dd.js";import{l as t,K as a,L as s,n as r}from"./index.cabe7b82.js";import"./render.82ce0840.js";const o=r("h3",{class:"text-weight-thin"}," There is nothing you can't build... ",-1),p={__name:"UserDashboard",setup(c){return(n,i)=>(t(),a(e,{padding:"",class:"flex flex-center text-center"},{default:s(()=>[o]),_:1}))}};export{p as default};
